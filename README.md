@@ -1,6 +1,6 @@
 # Linux File Manager & Automation CLI Tool
 
-A lightweight, interactive Bash script designed to automate file organization and directory management in Linux environments. This tool was developed as part of the **Operating Systems** course project at Ferdowsi University of Mashhad.
+A lightweight, interactive Bash script designed to automate file organization and directory management in Linux environments. This tool was developed as part of the **Operating Systems** course project.
 
 ## 🚀 Features
 
